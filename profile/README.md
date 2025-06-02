@@ -14,7 +14,7 @@
 - 사용자가 업로드한 엑셀 데이터 자동 시각화 및 다운로드
 - Text2SQL 기반의 챗봇 기능으로 DB 질의 수행 가능
 
-<img width="1507" alt="image" src="https://github.com/user-attachments/assets/813fc747-d124-4443-907c-1e92ef3f6d16" />
+<img width="1507" alt="image" src="https://github.com/user-attachments/assets/95b8190b-6fb1-4a5a-bd08-dce1d5711eb9" />
 
 ## 📊 주요 기능
 
