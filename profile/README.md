@@ -67,8 +67,9 @@
 
 ## 🗂️ 데이터 출처
 
-- ASOS 종관 기상 관측
-- 기상청 및 대기관측소 데이터
+- ASOS 종관 기상 관측 (2019~2023)
+- 에어코리아 대기데이터 (2019~2023)
+- 기상청 및 대기관측소 데이터 (~)
 - 온실가스 협의체 (2023) 제공 데이터
 
 ## 💻 팀 구성
@@ -84,7 +85,7 @@
 
 - **Frontend**: React, TypeScript, TanStack Query, Tailwind CSS, Zustand
 - **Backend**: Express, MySQL, JPA (TypeORM)
-- **AI/ML**: Gradient Boosting, Feature Engineering
+- **AI/ML**: Pandas, Sklearn, MYSQL, FastAPI, LangChain
 - **Infra**: Caffeine Cache, 병렬 데이터 처리 (Java)
 
 ## 🔗 기타
